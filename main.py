@@ -1,1 +1,1 @@
-print("ftgyhuj")
+print("")
